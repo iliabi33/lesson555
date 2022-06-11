@@ -1,0 +1,160 @@
+
+/*header styles*/
+
+.header{
+width: 1800px;
+background: #F6F8F9;
+
+}
+
+.div-head{
+	width: 1440px;
+	height: 50px;
+	 
+}
+.navigation{
+	width: 1440px;
+	vertical-align: middle;
+	display: inline-block;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	background: #F6F8F9;
+}
+
+.logo{
+	vertical-align: middle;
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 80px;
+	/*margin-top: 20px;*/
+}
+
+.li-list0{
+	display: inline-block;
+}
+
+.li-list1 {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 27px;
+}
+
+.li-list2 {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 20px;
+}
+
+.li-list3 {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 21px;
+}
+
+.li-list4 {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 22px;
+}
+
+.li-list5 {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 39px;
+}
+
+/*section #1*/
+
+.div-blocks{
+	margin-left: 140px;
+}
+
+.trend{
+	margin-top: 25px;
+	margin-bottom: 40px;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.div-block-left{
+	display: inline-block;
+	width: 360px;
+	height: 350px;
+	margin-right: 40px;
+
+}
+
+.div-block-middle{
+	display: inline-block;
+	width: 360px;
+	height: 350px;
+	margin-right: 40px;
+
+}
+
+.div-block-right{
+	display: inline-block;
+	width: 360px;
+	height: 350px;
+
+}
+
+.text1{
+	margin-top: 66px;
+	text-align: justify;
+	margin-right: 40px;
+	margin-left: 40px;
+	font-size: 13PX;
+}
+.text2{
+	margin-top: 66px;
+	text-align: justify;
+	margin-right: 40px;
+	margin-left: 40px;
+	font-size: 13PX;
+}
+
+.text3{
+	margin-top: 66px;
+	text-align: justify;
+	margin-right: 40px;
+	margin-left: 40px;
+	font-size: 13PX;
+}
+
+.div-1{
+display: inline-block;
+width: 760px;
+height: 900px;
+margin-left: 140px;
+margin-right: 40px;
+vertical-align: top;
+
+}
+
+.div-2{
+display: inline-block;
+width: 360px;
+height: 896px;
+vertical-align: top;
+
+}
+.image1 {
+margin-bottom: 40px;
+}
+
+.image3 {
+margin-bottom: 102px;
+}
+
+.image4 {
+margin-bottom: 102px;
+}
+
+.happy{
+	margin-left: 140px;
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 40px;
+
+}
